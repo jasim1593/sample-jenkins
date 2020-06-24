@@ -5,7 +5,7 @@ public class FirstDemo {
 	int c;
 	   c=a+b;
 	
-	   System.out.println("hii");
+	   System.out.println("hiii");
 	   return c;  
    }
 
